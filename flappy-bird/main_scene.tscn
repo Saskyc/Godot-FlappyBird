@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://crd3vrp6sdxm"]
+
+[ext_resource type="Texture2D" uid="uid://ch0hyhwr5no4v" path="res://flap.png" id="1_0f027"]
+[ext_resource type="Script" uid="uid://v01nmhmytrvu" path="res://BirdScript.cs" id="2_2c62f"]
+
+[node name="Node2D" type="Node2D" unique_id=819504639]
+
+[node name="Flap" type="Sprite2D" parent="." unique_id=1807156028 node_paths=PackedStringArray("Camera", "Rigid")]
+position = Vector2(256, 310)
+scale = Vector2(1.1136364, 1.0847458)
+texture = ExtResource("1_0f027")
+script = ExtResource("2_2c62f")
+Camera = NodePath("../Camera2D")
+Rigid = NodePath("RigidBody2D")
+
+[node name="RigidBody2D" type="RigidBody2D" parent="Flap" unique_id=715543612]
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=1691325521]
