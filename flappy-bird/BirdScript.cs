@@ -6,9 +6,6 @@ public partial class BirdScript : Sprite2D
 {
 	[Export]
 	public Camera2D Camera;
-
-	[Export]
-	public RigidBody2D Rigid;
 	
 	// Called when the node enters the scene tree for the first time.
 	public override void _Ready()
@@ -23,7 +20,7 @@ public partial class BirdScript : Sprite2D
 		GD.Print(@event.GetType().Name);
 		if (@event is InputEventMouseButton mouseButton)
 		{
-			Rigid.ApplyForce(new Vector2(0, 1).Normalized());
+			//Rigid.ApplyForce(new Vector2(0, 1).Normalized());
 		}
 		base._Input(@event);
 	}

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\martin.saska\\Desktop\\Godot-FlappyBird\\flappy-bird\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A38D-D881-4A99-8B9A-760C77839BA8}|Flappy Bird.csproj|c:\\users\\martin.saska\\desktop\\godot-flappybird\\flappy-bird\\birdscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C439A38D-D881-4A99-8B9A-760C77839BA8}|Flappy Bird.csproj|solutionrelative:birdscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A38D-D881-4A99-8B9A-760C77839BA8}|Flappy Bird.csproj|c:\\users\\martin.saska\\desktop\\godot-flappybird\\flappy-bird\\trubkamanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C439A38D-D881-4A99-8B9A-760C77839BA8}|Flappy Bird.csproj|solutionrelative:trubkamanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C439A38D-D881-4A99-8B9A-760C77839BA8}|Flappy Bird.csproj|c:\\users\\martin.saska\\desktop\\godot-flappybird\\flappy-bird\\trubka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C439A38D-D881-4A99-8B9A-760C77839BA8}|Flappy Bird.csproj|solutionrelative:trubka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BirdScript.cs",
+              "DocumentMoniker": "C:\\Users\\martin.saska\\Desktop\\Godot-FlappyBird\\flappy-bird\\BirdScript.cs",
+              "RelativeDocumentMoniker": "BirdScript.cs",
+              "ToolTip": "C:\\Users\\martin.saska\\Desktop\\Godot-FlappyBird\\flappy-bird\\BirdScript.cs",
+              "RelativeToolTip": "BirdScript.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T07:33:30.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Trubka.cs",
+              "DocumentMoniker": "C:\\Users\\martin.saska\\Desktop\\Godot-FlappyBird\\flappy-bird\\Trubka.cs",
+              "RelativeDocumentMoniker": "Trubka.cs",
+              "ToolTip": "C:\\Users\\martin.saska\\Desktop\\Godot-FlappyBird\\flappy-bird\\Trubka.cs",
+              "RelativeToolTip": "Trubka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T07:18:18.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrubkaManagerScript.cs",
+              "DocumentMoniker": "C:\\Users\\martin.saska\\Desktop\\Godot-FlappyBird\\flappy-bird\\TrubkaManagerScript.cs",
+              "RelativeDocumentMoniker": "TrubkaManagerScript.cs",
+              "ToolTip": "C:\\Users\\martin.saska\\Desktop\\Godot-FlappyBird\\flappy-bird\\TrubkaManagerScript.cs",
+              "RelativeToolTip": "TrubkaManagerScript.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T07:17:59.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
